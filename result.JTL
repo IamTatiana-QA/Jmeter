@@ -1,0 +1,80 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1720543710625,520,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,517,0,375
+1720543711167,90,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,90,0,0
+1720543711419,129,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,129,0,0
+1720543711668,88,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,88,0,0
+1720543711931,123,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,123,0,0
+1720543712168,89,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,89,0,0
+1720543712418,107,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,107,0,0
+1720543712668,121,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,121,0,0
+1720543712918,98,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,98,0,0
+1720543713171,73,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,73,0,0
+1720543713418,96,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,96,0,0
+1720543713667,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,76,0,0
+1720543713919,96,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,96,0,0
+1720543714168,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,77,0,0
+1720543714419,103,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,103,0,0
+1720543714667,81,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,80,0,0
+1720543714918,97,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,97,0,0
+1720543715168,79,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,79,0,0
+1720543715420,94,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,94,0,0
+1720543715668,76,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,76,0,0
+1720543715918,100,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,100,0,0
+1720543716167,88,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,88,0,0
+1720543716428,99,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,99,0,0
+1720543716668,86,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,86,0,0
+1720543716918,92,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,92,0,0
+1720543717170,83,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,83,0,0
+1720543717418,105,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,105,0,0
+1720543717667,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,77,0,0
+1720543717917,93,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,93,0,0
+1720543718167,73,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,73,0,0
+1720543718418,104,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,104,0,0
+1720543718668,75,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,75,0,0
+1720543718918,99,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,99,0,0
+1720543719175,72,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,72,0,0
+1720543719423,96,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,96,0,0
+1720543719667,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,77,0,0
+1720543719917,103,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,103,0,0
+1720543720168,76,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,76,0,0
+1720543720419,95,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,95,0,0
+1720543720669,84,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,84,0,0
+1720543720919,95,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,95,0,0
+1720543721169,86,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,85,0,0
+1720543721419,109,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,109,0,0
+1720543721668,76,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,76,0,0
+1720543721919,100,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,100,0,0
+1720543722169,88,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,88,0,0
+1720543722420,101,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,100,0,0
+1720543722669,78,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,78,0,0
+1720543722921,99,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,99,0,0
+1720543723168,79,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,79,0,0
+1720543723430,95,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,95,0,0
+1720543723669,78,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,78,0,0
+1720543723929,95,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,95,0,0
+1720543724169,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,77,0,0
+1720543724419,103,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,103,0,0
+1720543724668,186,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,186,0,0
+1720543724919,118,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,118,0,0
+1720543725170,78,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,78,0,0
+1720543725418,100,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,99,0,0
+1720543725668,85,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,85,0,0
+1720543725918,99,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,99,0,0
+1720543726178,93,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,93,0,0
+1720543726418,134,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,134,0,0
+1720543726668,106,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,106,0,0
+1720543726918,126,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,126,0,0
+1720543727169,88,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,88,0,0
+1720543727418,104,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,104,0,0
+1720543727668,85,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,85,0,0
+1720543727918,104,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,104,0,0
+1720543728169,77,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,77,0,0
+1720543728420,113,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,113,0,0
+1720543728668,87,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,87,0,0
+1720543728918,115,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,115,0,0
+1720543729168,87,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,87,0,0
+1720543729419,100,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,100,0,0
+1720543729669,84,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,84,0,0
+1720543729917,98,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,98,0,0
+1720543730170,88,Страховка авто,201,Created,Коллекция страховая 1-1,text,true,,1442,640,1,1,https://partner.agentapp.ru/v1/insured_objects/cars,88,0,0
+1720543730418,137,Запрос за токеном,200,OK,Коллекция страховая 1-1,text,true,,531,251,1,1,https://partner.agentapp.ru/v1/users/obtain-token,137,0,0
